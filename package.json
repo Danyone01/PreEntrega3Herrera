@@ -4,7 +4,7 @@
   "description": "Este es un proyecto de practica de HTML y CSS del curso **Desarrollo web**",
   "main": "index.js",
   "scripts": {
-    "build-sass": "sass ./sass/main.scss ./css/main.css -w"
+    "build-sass": "sass ./sass/main.scss ./css/main.css -w --no-source-map"
   },
   "author": "Dany Herrera",
   "license": "ISC",

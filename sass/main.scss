@@ -1,3 +1,9 @@
+// utils
 @import './utils/variables';
-@import './views/index';
 
+// components
+@import './components/footer';
+@import './components/global';
+
+// views
+@import './views/index';
